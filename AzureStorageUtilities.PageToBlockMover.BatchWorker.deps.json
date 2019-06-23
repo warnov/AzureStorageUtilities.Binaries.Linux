@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v3.0": {},
     ".NETCoreApp,Version=v3.0/ubuntu.18.04-x64": {
-      "AzureStorageUtilities.PageToBlockMover.BatchWorker/1.2.0.1": {
+      "AzureStorageUtilities.PageToBlockMover.BatchWorker/1.3.0.0": {
         "dependencies": {
           "AzureStorageUtilities.PageToBlockMover.Common": "1.0.0",
           "Microsoft.NETCore.Platforms": "3.0.0-preview5.19224.8",
@@ -1786,7 +1786,7 @@
     }
   },
   "libraries": {
-    "AzureStorageUtilities.PageToBlockMover.BatchWorker/1.2.0.1": {
+    "AzureStorageUtilities.PageToBlockMover.BatchWorker/1.3.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
